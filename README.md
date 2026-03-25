@@ -18,8 +18,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <br/>
-<br/>
-
 
 ### 📊 Estatísticas
 
@@ -36,7 +34,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
 </p>
